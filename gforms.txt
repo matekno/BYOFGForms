@@ -1,0 +1,6 @@
+https://docs.google.com/forms/d/e/1FAIpQLSdcsgA-nnQhpPilIyXWoEArkI6d4IVMTDFgTt3kkE1Xt3k0dA/formResponse
+
+entry.1955182896=Negro
+entry.1409938290=Rojo
+
+https://docs.google.com/forms/d/e/1FAIpQLSdcsgA-nnQhpPilIyXWoEArkI6d4IVMTDFgTt3kkE1Xt3k0dA/viewform?usp=pp_url&entry.1955182896=Negro&entry.1409938290=Amarillo

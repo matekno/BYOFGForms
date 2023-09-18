@@ -1,0 +1,27 @@
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+</head>
+<body>
+    <h1>Demo Google Forms as APi</h1>
+    <div class="container">
+        <div class="cta-form">
+            <h2>Ingrese sus datos</h2>
+            <p>Este es un texto placeholder. Se puede poner lo que se te cante aca.</p>
+        </div>
+        <form action="https://docs.google.com/forms/d/e/1FAIpQLSdcsgA-nnQhpPilIyXWoEArkI6d4IVMTDFgTt3kkE1Xt3k0dA/formResponse" class="form">
+            <input type="text" placeholder="Color" class="form__input" name="entry.1955182896" id="color"/>
+            <label for="color" class="form__label">Color</label>
+
+            <fieldset>
+                <p>Rojo</p>
+                <input type="radio" placeholder="Elegir" class="form__input" name="entry.1409938290" value="Rojo"/>
+                <p>Amarillo</p>
+                <input type="radio" placeholder="Elegir" class="form__input" name="entry.1409938290" value="Amarillo"/>
+            </fieldset>
+
+            <button type="submit" class="form__submit">Enviar</button>
+        </form>
+        <script src="formHandler.js"></script>
+
+</body>
